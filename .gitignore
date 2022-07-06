@@ -130,8 +130,5 @@ dmypy.json
 
 
 
-datasets\cats-and-dogs
-datasets\cats-and-dogs\PetImages
-datasets\cats-and-dogs\MSR-LA - 3467.docx
-datasets\cats-and-dogs\readme[1].txt
-datasets\cats-and-dogs.zip
+datasets/cats-and-dogs/
+
